@@ -1,0 +1,14 @@
+file.jpg.svg
+file.svg.jpg
+file.svg.blah123jpg
+file.svg%00.jpg
+file.svg\x00.jpg
+file.svg%00
+file.svg%20
+file.svg%0d%0a.jpg
+file.svg.....
+file.svg/
+file.svg.\
+file.svg#.png
+file.
+.html
